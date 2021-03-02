@@ -35,3 +35,11 @@ body {
 .spacedout {
   margin-bottom: 1.5rem;
 }
+.colored-section {
+  background-color: #000080;
+}
+.white-text {
+  color: #ffffff;
+}
+.container-fluid{
+}
